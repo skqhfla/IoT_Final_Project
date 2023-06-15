@@ -28,7 +28,7 @@ If there is only one player remaining who is not a zombie, the game ends.
 ## Command Sequence: Steps to run the program.
 
 ### Server
-```$ ./game_server <port>```
+```$ ./src/game_server <port>```
   
 ### Client
-```$ ./game_client <ip address> <port>```
+```$ ./src/game_client <ip address> <port>```
